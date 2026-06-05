@@ -2,6 +2,8 @@
   "name": "2app",
   "productName": "2A App",
   "version": "1.0.0",
+  "description": "2A Class Website App",
+  "author": "Elga3los",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
